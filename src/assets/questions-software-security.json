@@ -1,0 +1,175 @@
+{
+  "questions": [
+    {
+      "questionText": "Which of the following is NOT a recommended practice for securing passwords?",
+      "options": [
+        {
+          "text": "Using a unique password for each account"
+        },
+        {
+          "text": "Sharing passwords with trusted friends"
+        },
+        {
+          "text": "Enabling two-factor authentication",
+          "correct": true
+        },
+        {
+          "text": "Regularly updating passwords"
+        }
+      ],
+      "explanation": "Two-factor authentication adds an extra layer of security but doesn't directly relate to the complexity or uniqueness of passwords."
+    },
+    {
+      "questionText": "What is the purpose of a firewall?",
+      "options": [
+        {
+          "text": "To prevent physical intrusions into a building"
+        },
+        {
+          "text": "To filter incoming and outgoing network traffic",
+          "correct": true
+        },
+        {
+          "text": "To encrypt data transmissions"
+        },
+        {
+          "text": "To authenticate user identities"
+        }
+      ],
+      "explanation": "A firewall is a network security device that monitors and filters incoming and outgoing network traffic based on predetermined security rules."
+    },
+    {
+      "questionText": "What does HTTPS stand for?",
+      "options": [
+        {
+          "text": "Hyper Text Transfer Protocol Secure",
+          "correct": true
+        },
+        {
+          "text": "Hyperlink Transport Protocol Security"
+        },
+        {
+          "text": "Highly Encrypted Transfer Protocol"
+        },
+        {
+          "text": "Home Email Transmission Protocol Secure"
+        }
+      ],
+      "explanation": "HTTPS is an extension of HTTP used for secure communication over a computer network, and it stands for Hyper Text Transfer Protocol Secure."
+    },
+    {
+      "questionText": "What is the purpose of antivirus software?",
+      "options": [
+        {
+          "text": "To prevent physical damage to computer hardware"
+        },
+        {
+          "text": "To block unauthorized access to a network"
+        },
+        {
+          "text": "To detect and remove malicious software (malware)",
+          "correct": true
+        },
+        {
+          "text": "To encrypt sensitive data"
+        }
+      ],
+      "explanation": "Antivirus software is designed to detect, prevent, and remove malicious software, including viruses, worms, Trojans, and other types of malware."
+    },
+    {
+      "questionText": "What is the purpose of a VPN?",
+      "options": [
+        {
+          "text": "To create a secure connection to a remote server over the internet",
+          "correct": true
+        },
+        {
+          "text": "To block access to certain websites"
+        },
+        {
+          "text": "To increase the speed of internet connections"
+        },
+        {
+          "text": "To encrypt files stored on a computer"
+        }
+      ],
+      "explanation": "A VPN (Virtual Private Network) creates a secure, encrypted connection between a user's device and a remote server over the internet, providing privacy and anonymity."
+    },
+    {
+      "questionText": "What is the primary purpose of data encryption?",
+      "options": [
+        {
+          "text": "To speed up data transmission"
+        },
+        {
+          "text": "To compress data files"
+        },
+        {
+          "text": "To protect data from unauthorized access",
+          "correct": true
+        },
+        {
+          "text": "To increase the size of data storage"
+        }
+      ],
+      "explanation": "Data encryption transforms data into an unreadable format using encryption algorithms, making it inaccessible to unauthorized users and protecting it from unauthorized access."
+    },
+    {
+      "questionText": "What is the most common social engineering technique used by cyber attackers?",
+      "options": [
+        {
+          "text": "Phishing",
+          "correct": true
+        },
+        {
+          "text": "Ransomware"
+        },
+        {
+          "text": "SQL injection"
+        },
+        {
+          "text": "DDoS attacks"
+        }
+      ],
+      "explanation": "Phishing is a type of social engineering attack where attackers attempt to deceive individuals into providing sensitive information, such as passwords or credit card numbers, by impersonating a trustworthy entity in an electronic communication."
+    },
+    {
+      "questionText": "Which of the following is NOT a good practice for protecting personal information online?",
+      "options": [
+        {
+          "text": "Using strong, unique passwords for each online account"
+        },
+        {
+          "text": "Sharing personal information on social media"
+        },
+        {
+          "text": "Enabling privacy settings on social media platforms",
+          "correct": true
+        },
+        {
+          "text": "Regularly updating privacy settings"
+        }
+      ],
+      "explanation": "Enabling privacy settings on social media platforms helps protect personal information by limiting who can view it, making it a good practice for protecting personal information online."
+    },
+    {
+      "questionText": "What is the purpose of a data backup?",
+      "options": [
+        {
+          "text": "To delete unnecessary data files"
+        },
+        {
+          "text": "To increase the speed of data retrieval"
+        },
+        {
+          "text": "To restore data in case of data loss or corruption",
+          "correct": true
+        },
+        {
+          "text": "To compress data files"
+        }
+      ],
+      "explanation": "Data backup involves making copies of data files to restore them in case of data loss or corruption due to hardware failure, human error, or cyber attacks."
+    }
+  ]
+}

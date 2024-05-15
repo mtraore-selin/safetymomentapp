@@ -1,0 +1,80 @@
+{
+  "questions": [
+    {
+      "questionText": "What is the best practice for ensuring road safety?",
+      "options": [
+        {
+          "text": "Driving over the speed limit to minimize time on the road"
+        },
+        {
+          "text": "Ignoring traffic signals when no other vehicles are present"
+        },
+        {
+          "text": "Using the phone only when connected to the car's hands-free system",
+          "correct": true
+        },
+        {
+          "text": "Consuming alcohol before driving if feeling still capable of controlling the vehicle"
+        }
+      ],
+      "explanation": "Using a hands-free system for calls reduces distractions while driving, thereby enhancing road safety."
+    },
+    {
+      "questionText": "What is the correct posture to adopt when working on a computer to avoid injuries?",
+      "options": [
+        {
+          "text": "Sitting with shoulders leaned forward towards the screen"
+        },
+        {
+          "text": "Keeping feet hanging without touching the ground"
+        },
+        {
+          "text": "Adjusting the chair so that eyes are level with the top of the monitor and feet are flat on the floor",
+          "correct": true
+        },
+        {
+          "text": "Using a chair without back support to encourage an upright posture"
+        }
+      ],
+      "explanation": "Having a properly adjusted chair and correct posture helps prevent back pain and injuries related to poor workplace ergonomics."
+    },
+    {
+      "questionText": "What is the basic safety rule when using chemicals in a laboratory?",
+      "options": [
+        {
+          "text": "Eating and drinking in the work area to save time"
+        },
+        {
+          "text": "Working in an unventilated space to prevent fume spread"
+        },
+        {
+          "text": "Wearing personal protective equippment such as gloves and safety goggles",
+          "correct": true
+        },
+        {
+          "text": "Using open containers to facilitate access to chemicals"
+        }
+      ],
+      "explanation": "Using personal protective equipment iss crucial to avoid direct exposure to hazardous chemicals and to protect the user’s health."
+    },
+    {
+      "questionText": "What behavior should be adopted to reduce the risk of accidents in a warehouse?",
+      "options": [
+        {
+          "text": "Running to move faster from one point to another"
+        },
+        {
+          "text": "Ignoring safety protocols to increase productivity"
+        },
+        {
+          "text": "Ensuring all aisles are clear and goods are properly stacked",
+          "correct": true
+        },
+        {
+          "text": "Using malfunctioning equipment to not interrupt the workflow"
+        }
+      ],
+      "explanation": "Keeping aisles clear and materials properly organized helps prevent falls and other accidents in warehouse environments."
+    }
+  ]
+}
